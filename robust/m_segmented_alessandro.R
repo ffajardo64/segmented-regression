@@ -1,6 +1,6 @@
 
 # Modificar as funções de perda
-
+# comentário
 
 M_segmented<-function(Y, X=NULL, Z, psi0, method='classic'){
   # require(lmtest)
